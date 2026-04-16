@@ -1,1 +1,7557 @@
-{"data":[{"prefijo":"+34","numero":"912000000","nombre":"Emergencias","descripcion":"Número de emergencias médicas"},{"prefijo":"+34","numero":"913000000","nombre":"Ayuntamiento Madrid","descripcion":"Gestiones administrativas"},{"prefijo":"+34","numero":"933000000","nombre":"Hospital Clínic Barcelona","descripcion":"Citas médicas y consultas"},{"prefijo":"+34","numero":"963000000","nombre":"Banco Santander","descripcion":"Soporte bancario de confianza"},{"prefijo":"+34","numero":"954000000","nombre":"Junta de Andalucía","descripcion":"Trámites administrativos"},{"prefijo":"+54","numero":"1143000000","nombre":"BANCO GALICIA","descripcion":"Soporte bancario Argentina"},{"prefijo":"+55","numero":"1133000000","nombre":"TELEFONICA Brasil","descripcion":"Soporte técnico oficial"}]}
+{
+  "data": [
+    {
+      "prefijo": "+34",
+      "numero": "923269300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938931616",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932184908",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934603900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "958031300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "987227250",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952978059",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "966616900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968537261",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "848422869",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "954937676",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928063600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973350050",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "966070903",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "955616666",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938172357",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971280204",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968719800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932483",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "669626602",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915941598",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938861090",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985367711",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "966921313",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924215",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "955012",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977501522",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "967597179",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922423204",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "964233240",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943362898",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922381958",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937965003",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981585811",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985106900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "983299",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932804",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956026500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977401863",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922322072",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985563954",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985365411",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981706010",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "933674100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914538300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977232714",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928350358",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937530062",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937417700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "917355757",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "933357652",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "957615",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "948429400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "979742300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972202700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "950290099",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "957767610",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965162200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971890936",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "923489452",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "987234900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "961972013",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937742020",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "917679100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986811111",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922330550",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938432786",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965268",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "948235850",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985652",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "927548902",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915504800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977310300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971918",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981288907",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968884258",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963179100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "916276200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938380045",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971751445",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973451130",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "949212542",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952828250",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972570208",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968394",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977217900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971480505",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968705541",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "982417917",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "926255008",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986856800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "916648600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965938301",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973737455",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968510300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "921419100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "957010345",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "926255009",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972204350",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "955839097",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914023400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985250300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "642847500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "951067010",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "955889037",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938058",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "953021400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "982296",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956533333",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "927012200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "925266100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915867500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963874683",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "945142100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "966878783",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "947256236",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924563026",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965781550",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "933065360",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971891900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973481172",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "913162843",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "926646",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986219115",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973450304",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "923291200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "942584100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985106910",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "913111",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965938700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924386820",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973231698",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "975220850",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "982284040",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "917277",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986821100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "957022600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "691687900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928350054",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "987232500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981251600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915617100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "962959200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981287230",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971487",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943328",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968359",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "983427124",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "926211792",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "966989",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "961223900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965160774",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968570050",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965537470",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "923291100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "902300124",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928596181",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943437107",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918878101",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924388081",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976271660",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965201177",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "902500112",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971888514",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "948140656",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "969179909",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "966429",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956495",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934169100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918520300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981578256",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "974473211",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "95212100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "978654",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914079296",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "923330163",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963177800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922280700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938891111",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924699200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973289333",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928063615",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914335452",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971397062",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "947244055",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915867556",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "951033735",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968800600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "966878787",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972503650",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918930001",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985286",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918562",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914332948",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928810",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985106100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938816500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971351115",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "933249600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "964357600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "988413636",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "954249102",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968572524",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "948452162",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971767",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918521204",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "848434",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972182600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "921421800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "955077200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "945007",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "953008",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928499900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "967213130",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "680422588",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "948140611",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934114700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972501400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "944606822",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932988090",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "926211788",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "902024747",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934172007",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934977700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981219800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "957012042",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "925259350",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986413300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "947257730",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981178",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "967597799",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938744050",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956357100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976151152",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928596100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965787991",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "933869648",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985123",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "987410059",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922645599",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976466910",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928369366",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981551200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "974249",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "913162740",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "987481057",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "951976",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922140205",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "944434954",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976880964",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914313829",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922383831",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918014101",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "941211900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932214700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968775569",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "926231275",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "913608800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938673995",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915957091",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971392960",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914472100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968369500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986418436",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "947281810",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943002800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "913539500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971301916",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "961845099",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "941151",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932041300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981179",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968775550",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "948290310",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "966831004",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963390400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934501819",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972600160",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "925803604",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "917567800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932594",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "942390060",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "902423200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "978605467",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "941298",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965452272",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "983420",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "983358",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938425",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968327380",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "967192350",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943035",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915649943",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "947237263",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956526600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934894524",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972204900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "913875",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922274406",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963862604",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965201100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "954919",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "902100994",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "974292",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "948235854",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "902151016",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977401674",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915099137",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "936680004",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "983135555",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937660947",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "957011604",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "954632600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "961114",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "955017800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "948580024",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "913303",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981585311",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968709154",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932275400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938708099",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "942847400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963174",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976677978",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "920252525",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965106868",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963352515",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928450002",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "951065076",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "948296",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977700050",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915080141",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985812347",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "916839360",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914222",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "935656",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937579090",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "916265642",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922678060",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "961699",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963690600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "920357200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972331550",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934702970",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "911912",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971175",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937582800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971265854",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932906200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976765400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "933621258",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915574300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977341656",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928350354",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937750316",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922843300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952350401",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971751446",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "876241818",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "951019100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986413444",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934651200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "926231276",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981835985",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943007060",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915437802",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952513267",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "988223400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "920221450",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928882",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "947522",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "913368",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937926612",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981312500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922291600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976765700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "920358001",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "957010380",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "917444100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971450882",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924840746",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "944007",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "911914",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "950572020",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "959242100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977295857",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "944939900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914536444",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "954330100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "936402400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965907700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932545",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "926320204",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "950017400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "926580500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "982589901",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956528400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "925247700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965102222",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "935537160",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922678061",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932053213",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956041",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "97864001",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "987232300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932859955",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915202200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "925839200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968278100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "648235519",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "848422102",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971452323",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "917089900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928263708",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924240841",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "982589902",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "917567863",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956181650",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "957011409",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "944006",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985195",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "969240559",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "964354300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968360900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972730028",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977613",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937837111",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "935836100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "958187700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963897700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973652255",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986235607",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915957292",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "945252500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918878100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938743312",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932140100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968187346",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "942217711",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "953250440",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986235606",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "967133",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918973",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915035900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "902151475",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "954611330",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "942202520",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971212400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "945006555",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968445552",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985840032",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "944127011",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976720",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914476600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981289006",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938180440",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986856562",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943007702",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938506565",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "966476260",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972204500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "916219889",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922553500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "962289500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "913608803",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938732550",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "916219400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986487518",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "949223600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "959025295",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "954464",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "927418484",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937556219",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "955016",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928369166",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "0",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952201464",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "948563850",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "966679800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918394",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968644030",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "947500150",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977259900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952217606",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "900506070",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "958275700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976770635",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "94250970",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943007703",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918948540",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968709100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976765500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968246366",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952287766",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "944600109",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952774200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934648300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971480508",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932127",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914135011",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986432838",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977390011",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "935705289",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915858662",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938890125",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "927428800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "923330164",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "925269200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937365050",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "955050550",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972353264",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985525744",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "959016",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968269277",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973740010",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952250550",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952569030",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963989907",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "951030100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952389811",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "961622300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "848435",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "917340148",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972209250",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934266767",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977239412",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934275250",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973727060",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "948255400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "978831018",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "958699100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915858016",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972205045",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928012630",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "935072700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986413144",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965721200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "944445012",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "923402371",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "927256800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972880150",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914100200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "955008",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934334717",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976440022",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928862",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956214424",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943793900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965579702",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "646599099",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981338800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915867300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "988371710",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968246116",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965950711",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "927428300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "957010342",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "936935",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981951900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "935531200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956002378",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915191544",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "917878600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "988414441",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "926525800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977660140",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "927548900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "941279220",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "933860202",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "980548204",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922534730",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "955015",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915630360",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914022100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "949209200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "979742490",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "987237400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968327400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928769004",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "936473525",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973640004",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932310512",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922274400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928640050",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938833300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971888515",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "951030400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922185",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922553505",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922534733",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934577200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934978812",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971847",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "987409109",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973740504",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914539400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977295800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976765516",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "944102710",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976675479",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976675454",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "962588933",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "942638508",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "962659400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "962588800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985458500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "933209630",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "911916",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "980545300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965583350",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "966859800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "936300931",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "951055951",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "944132380",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956017",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972171819",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "933012793",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972182512",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "987243252",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943317100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "967247100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "979747700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922645511",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "935074710",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973232943",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "913657600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968445500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952698001",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "964356800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965877522",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "962458100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915339900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985639300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968244200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976731",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "942204100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934959210",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924648100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914818",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "936406350",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "951032",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976556400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "948562910",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976305",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "967309500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "946006",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "987206112",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932057267",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968365",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918550208",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "954382110",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "983838",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "944434792",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "983272604",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924808575",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "959015232",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "916735011",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918548328",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "935522700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "942755155",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914532500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932032812",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937365040",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "926431550",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "957579100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924029200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932541313",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937590241",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "936615208",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963989900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963410600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965537400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943212600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922757600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977588200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "959014603",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "945140900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "964231212",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "916265500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985470707",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "974355331",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "951030300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981552200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "958022339",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "983272600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928707555",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968741156",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981334",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "988371711",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "917061100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "953024200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "967190072",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "987236900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985771677",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "979165324",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "931171074",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956526650",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932112508",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934579400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "978830100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "962989305",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924218112",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932122300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "946029",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976749300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928444",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937752200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "947235011",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971213400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914026100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "935653900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "959014600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "950158015",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934174602",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934845900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915868",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943697",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "917089920",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932274747",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934343216",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "988385510",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "946032802",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938861700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981951500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932848635",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985320050",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986800",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977257900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977225012",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "925216154",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "961972012",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "987203",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976765300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986413033",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985282526",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "987455200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "949227200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "950621063",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968510304",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943437100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968128600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981287499",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965853850",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938290138",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "949211500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "911918",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "949227490",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928595103",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "944996603",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956182244",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "913908",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "955050570",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971221257",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "912675",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934739176",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "974220772",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "979167",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "925839251",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952224295",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937690201",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922368822",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972364736",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "958021301",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956048068",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "957021300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "983215385",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934169700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918930150",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932850",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956025",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928450001",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "969232500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "933451604",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915080140",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "941499492",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968885550",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922286604",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "947281800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934108796",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956598100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963868727",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965452786",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "982417900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "980533533",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "935760300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968504800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973266300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "944243040",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "959012100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937231010",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "911913500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "947349",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "941212009",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "942251100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "927256200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "926421100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943794411",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "949226711",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "974474545",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986413244",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986568",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981706199",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914156",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924772260",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963054008",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "964477",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934739101",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "933069900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "957292425",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943327020",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963352500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "950017601",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924877",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "969179900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943032800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914530200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968537262",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "848422730",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971321212",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928640054",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986266400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "925803600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "917340500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928263720",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943032801",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965938300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985692111",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985185",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952764300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937310007",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986494331",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "941499490",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922750022",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977500533",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "933221111",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972213066",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "982280240",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968510500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "921460115",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963868501",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968510504",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "949291136",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924381",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "916006",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928303834",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922602",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "947500154",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922423262",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "966420162",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971448500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952444737",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937758",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963897701",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973248100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922777901",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "980631900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "925815281",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915866767",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "982310002",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965233150",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "967339500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973266100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932275600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934161616",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915129",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "983427178",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985812346",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "962874741",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924382804",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "987286",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937365036",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938243400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914027100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914153",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968233500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985470727",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986219114",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "927149200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "967597100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "959243900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986866296",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "936590111",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928297932",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985639311",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986487517",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "980548200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914097423",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985108",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932542400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "921460112",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "954851008",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981147300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965877524",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918163526",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "933357011",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963511583",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973235891",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "954906671",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "608520648",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924670018",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937317861",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965939033",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "967309517",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985290284",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986856566",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986811104",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "935551994",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914532668",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "917061121",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "944215200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924388182",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "933468151",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924670017",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934882142",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932522522",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915867501",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "974247",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "954162200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965579700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "987423732",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "961350250",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937938006",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "954032",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "964726",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "962874740",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938670617",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "848422100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977600292",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "927181360",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932133400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968800612",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "944430150",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "945006900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "967223300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "957420666",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977300021",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934141992",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915348207",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922752626",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922777900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932919",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963638036",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977010800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934628926",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932095311",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985367444",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938960025",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "926278",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "957274600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943460033",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "616483562",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976331500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "925269300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972730013",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977338565",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "944252500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "639312855",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "957010381",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "974220600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977395825",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "926320200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934893",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952443119",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928595409",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977519100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "958023",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "937365030",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973463030",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "951030200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "951061009",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934170400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924552755",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943793078",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "916496600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952760600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976715750",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985365122",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952045",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934224358",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "958020",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986872500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981551220",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "953499100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "902202230",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "927149202",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "951061433",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "902445595",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "942638500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938654994",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "967339526",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915437241",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "981950",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918608",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "977774705",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952256150",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "932360500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "943361124",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965264200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963179200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915866500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "93428",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "973727222",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "953280211",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918550383",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "949290723",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938032650",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "848428",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "914359100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "961687912",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "952175030",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "962339601",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "856907",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "95264910",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "987202111",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "962339600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "975234300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "925215267",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "96862701",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976275700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "946032800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "902051058",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "953028200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972261800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986438900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "976748",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "972940200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963793500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956032",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "902407",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928012600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "962289512",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928350050",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938742099",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "964359700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "980520200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924218100",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924229050",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956301211",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "957026300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968889096",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934556594",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985458501",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "962458142",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "962989300",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "988339",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "954351400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "978605368",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "950029",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "871202",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "988385500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "934407500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918883262",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "956005",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "924386800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "938957792",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918883266",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "968468600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "950016",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928234466",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922140219",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963862600",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "933613900",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986411466",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "955074500",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "982222854",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "963862700",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "948231800",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "944755",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922791",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "971395650",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "986816",
+      "rango": "true",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "965330400",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "918948410",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "928499910",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "915989010",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "922321633",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "985692051",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "958808880",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "958038200",
+      "rango": "false",
+      "nombre": "Hospital",
+      "descripcion": "Número/rango de hospitales o médicos"
+    }
+  ]
+}
