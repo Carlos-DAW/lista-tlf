@@ -1,1 +1,32 @@
-
+{"data":
+  [
+    {
+      "prefijo": "+34",
+      "numero": "960",
+      "rango": true,
+      "nombre": "Telemarketing",
+      "categoria": "Estafa"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "931",
+      "rango": true,
+      "nombre": "Telemarketing",
+      "categoria": "Estafa"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "865",
+      "rango": true,
+      "nombre": "Seguros",
+      "categoria": "Estafa"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "854",
+      "rango": true,
+      "nombre": "Seguros",
+      "categoria": "Estafa"
+    }
+  ]
+}
