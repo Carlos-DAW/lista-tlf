@@ -27,6 +27,13 @@
       "rango": true,
       "nombre": "Seguros",
       "categoria": "Estafa"
+    },
+    {
+      "prefijo": "+34",
+      "numero": "853",
+      "rango": true,
+      "nombre": "Seguros",
+      "categoria": "Estafa"
     }
   ]
 }
